@@ -3,6 +3,7 @@
 ## Yet another fork
 
 sudo apt install libxcb-ewmh-dev libdbus-glib-1-dev
+
 ./autogen.sh --with-panel=gnomeflashback
 
 ## This Fork
