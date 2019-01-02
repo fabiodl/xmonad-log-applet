@@ -1,5 +1,10 @@
 # xmonad-log-applet
 
+## Yet another fork
+
+sudo apt install libxcb-ewmh-dev libdbus-glib-1-dev
+./autogen.sh --with-panel=gnomeflashback
+
 ## This Fork
 This fork has the [3 unapplied pull requests](https://github.com/alexkay/xmonad-log-applet/pulls) from master. 
 The master version appears to be unmaintained. In particular for me, the log-applet would not function
