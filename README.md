@@ -2,7 +2,7 @@
 
 ## Yet another fork
 
-sudo apt install libxcb-ewmh-dev libdbus-glib-1-dev
+sudo apt install libxcb-ewmh-dev libdbus-glib-1-dev libpanel-applet-dev
 
 ./autogen.sh --with-panel=gnomeflashback
 
